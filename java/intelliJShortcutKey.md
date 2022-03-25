@@ -5,6 +5,7 @@
 - `Ctrl` + `Alt` + `V` : Variable Extract (ex. `new Member()`로 입력하고 사용하면 앞에 `Member memberA =`를 붙여줌)
 - `Ctrl` + `Shift` + `Enter` : Complete Current Statement (코드 끝에 세미콜론을 추가하는 등, 현재 구문을 완성시켜줌)
 - `Ctrl` + `Shift` + `A` : Find Action (Intellij에서 사용 가능한 모든 액션을 검색할 수 있으며, 각각의 단축키도 표시해줌)
+- `Ctrl` + `Shift` + `T` : Create New Test (Intellij에서 해당 클래스의 테스트 코드 블럭을 자동으로 작성해줌)
 - `Ctrl` + `Shift` + `W` : 코드 선택 영역의 축소 (<-> `Ctrl` + `W`)
 - `Ctrl` + `/` : 코드 선택 라인의 줄 주석 처리
 - `Ctrl` + `W` : 코드 선택 영역의 확대 (<-> `Ctrl` + `Shift` + `W`)
