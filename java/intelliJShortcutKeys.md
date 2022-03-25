@@ -3,6 +3,7 @@
 - `Ctrl` + `Ctrl` : Run Anything (Gradle 등, 실행 가능한 모든 것들을 실행시킬 수 있음)
 - `Ctrl` + `Alt` + `Shift` + `T` : Code Refactor (이름 변경, 위치 이동, 선언 변경 등 각종 리팩토링 옵션 제공)
 - `Ctrl` + `Alt` + `L` : Code Reformat (해당 프로젝트의 표준에 맞도록 현재 파일의 서식을 재 지정해줌)
+- `Ctrl` + `Alt` + `V` : Variable Extract (ex. `new Member()`로 입력하고 사용하면 앞에 `Member memberA =`를 붙여줌)
 - `Ctrl` + `Shift` + `Enter` : Complete Current Statement (코드 끝에 세미콜론을 추가하는 등, 현재 구문을 완성시켜줌)
 - `Ctrl` + `Shift` + `A` : Find Action (Intellij에서 사용 가능한 모든 액션을 검색할 수 있으며, 각각의 단축키도 표시해줌)
 - `Ctrl` + `Shift` + `W` : 코드 선택 영역의 축소 (<-> `Ctrl` + `W`)
